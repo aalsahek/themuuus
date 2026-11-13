@@ -1,0 +1,8 @@
+{
+  "name": "themuuus",
+  "description": "The Muuus and eight senior experts debate a topic, push for big but achievable ideas, judge their own performance, and end with one clear plan",
+  "version": "1.0.0",
+  "author": { "name": "aalsahek" },
+  "keywords": ["panel", "experts", "planning", "product", "strategy"],
+  "skills": ["./skills/themuuus"]
+}

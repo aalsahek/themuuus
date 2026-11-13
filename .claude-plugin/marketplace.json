@@ -1,0 +1,29 @@
+{
+  "name": "themuuus",
+  "owner": {
+    "name": "aalsahek"
+  },
+  "metadata": {
+    "description": "The Muuus: an expert panel skill for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "themuuus",
+      "source": "./",
+      "description": "The Muuus and eight senior experts (ML, data, AI engineering, software, product, product ownership, full-stack, web and app design) debate a topic in six rounds and end with one clear, achievable plan",
+      "version": "1.0.0",
+      "author": {
+        "name": "aalsahek"
+      },
+      "keywords": [
+        "panel",
+        "experts",
+        "planning",
+        "product",
+        "strategy"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
